@@ -1,5 +1,9 @@
 # Proyecto-Final-Big-Data-Processing
 
+En este módulo se hizo un análisis de los datos proporcionados en dos archivos csv sobre los países más felices del mundo.
 
-Link del cuaderno del proyecto:
-https://colab.research.google.com/drive/1RxkE35kbos00c-1yyp2r1pwRhD6wWweH?usp=sharing
+Fue desarrollado en un cuaderno de google colaboratory utilizando pyspark y pandas para el análisis.
+
+Se publicó un artículo en Medium con las conclusiones que puedes leer en el siguiente link:
+https://medium.com/@willdata.ia/en-busca-de-la-felicidad-una-historia-de-datos-8781ffe5e3b1
+
